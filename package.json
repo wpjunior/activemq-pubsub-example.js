@@ -1,0 +1,10 @@
+{
+    "name": "activemq-pubsub-example.js",
+    "version": "1.0.0",
+    "description": "",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "stompit": "0.x"
+    }
+}
